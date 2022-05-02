@@ -1,0 +1,3 @@
+const PEOPLE = [
+  {firstName: 'Niki'},
+];
