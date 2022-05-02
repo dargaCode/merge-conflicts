@@ -1,3 +1,4 @@
 const PEOPLE = [
-  {firstName: 'Niki'},
+  {firstName: 'Chris'},
+  {firstName: 'Niki'}
 ];
