@@ -1,8 +1,8 @@
 const PEOPLE = [
-  {firstName: 'Chris'},
-  {firstName: 'Darga'},
-  {firstName: 'Loren'},
-  {firstName: 'Niki'},
-  {firstName: 'Pasha'},
-  {firstName: 'Wolf'},
+  {firstName: 'Chris', animal: 'dog'},
+  {firstName: 'Darga', animal: 'owl'},
+  {firstName: 'Loren', animal: 'cat'},           
+  {firstName: 'Niki', animal: 'sloth'},
+  {firstName: 'Pasha', animal: 'lion'},  
+  {firstName: 'Wolf', animal: 'wolf'},
 ];
