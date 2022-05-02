@@ -1,8 +1,8 @@
 const PEOPLE = [
-  {firstName: 'Chris', animal: 'dog', show: 'the wire'},
-  {firstName: 'Darga', animal: 'owl', show: 'fuckboy island'},
-  {firstName: 'Loren', animal: 'cat', show: 'steven universe'},          
-  {firstName: 'Niki', animal: 'sloth', show: 'our flag means death'},
-  {firstName: 'Pasha', animal: 'lion', show: 'bojack horseman'},
-  {firstName: 'Wolf', animal: 'wolf', show: 'the good place'},
+  {firstName: 'Chris', animal: 'dog', food: 'bacon'},
+  {firstName: 'Darga', animal: 'owl', food: 'sandwich'},
+  {firstName: 'Loren', animal: 'cat', food: 'sushi'},           
+  {firstName: 'Niki', animal: 'sloth', food: 'olives'},
+  {firstName: 'Pasha', animal: 'lion', food: 'burger'},  
+  {firstName: 'Wolf', animal: 'wolf', food: 'french fries'},
 ];
