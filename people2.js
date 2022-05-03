@@ -1,8 +1,8 @@
 const PEOPLE = [
-  {firstName: 'Chris', animal: 'dog', food: 'bacon', show: 'the wire'},
-  {firstName: 'Darga', animal: 'owl', food: 'sandwich', show: 'fuckboy island'},
-  {firstName: 'Loren', animal: 'cat', food: 'sushi', show: 'steven universe'},           
-  {firstName: 'Niki', animal: 'sloth', food: 'olives', show: 'our flag means death'},
-  {firstName: 'Pasha', animal: 'lion', food: 'burger', show: 'bojack horseman'},  
-  {firstName: 'Wolf', animal: 'wolf', food: 'french fries', show: 'the good place'},
+  { animal: 'dog', firstName: 'Chris', middleName: 'Mercutio', favoriteFood: 'bacon', show: 'The Wire',},
+  { animal: 'cat', firstName: 'Loren', favoriteFood: 'sushi', show: 'Steven Universe',},           
+  { animal: 'sloth', firstName: 'Niki', middleName: 'Esmerelda', favoriteFood: 'olives', show: 'Our Flag Means Death'}
+  { animal: 'lion', firstName: 'Pasha', favorite: 'burger', show: 'Bojack Horseman',},  
+  { animal: 'wolf', firstName: 'Wolf', middleName: 'Leopold', favoriteFood: 'french fries', show: 'The Good Glace',},
+  { animal: 'parot', firstName: 'Wolf', favoriteFood: 'couscous', show: 'The Walking Dead',},
 ];
