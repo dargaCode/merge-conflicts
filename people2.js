@@ -1,10 +1,9 @@
 const PEOPLE = [
-  {firstName: 'Chris', animal: 'dog', show: 'the wire'},
-  ['apples', 'pears', 'oranges'],
-  {firstName: 'Darga', animal: 'owl', show: 'fuckboy island'},
-  {firstName: 'Loren', animal: 'cat', occupation: 'developer', show: 'steven universe'},          
-  {firstName: 'Niki', animal: 'sloth', occupation: "developer", show: 'our flag means death'},
-  {lastName: 'Cornelius', birthyear: '1965', occupation: 'accountant'},
-  {firstName: 'Pash', animal: 'lion', show: 'bojack horseman'},
-  {firstName: 'Wolfie', animal: 'wolf', show: 'the good place'},
+  { animal: 'dog', firstName: 'Chris', middleName: 'Mercutio', favoriteFood: 'bacon', show: 'The Wire'},
+  { animal: 'cat', firstName: 'Loren', occupation: 'developer', favoriteFood: 'sushi', show: 'Steven Universe'},           
+  { animal: 'sloth', firstName: 'Niki', occupation: 'developer', middleName: 'Esmerelda', favoriteFood: 'olives', show: 'Our Flag Means Death'},
+  { animal: 'frog', firstName: 'Cornelius', birthYear: 1965, occupation: 'accountant'},
+  { animal: 'lion', firstName: 'Pash', favoriteFood: 'burger', show: 'Bojack Horseman'},
+  { animal: 'parrot', firstName: 'Peri', favoriteFood: 'couscous', show: 'The Walking Dead'}, 
+  { animal: 'wolf', firstName: 'Wolfie', middleName: 'Leopold', favoriteFood: 'french fries', show: 'The Good Place'},
 ];
