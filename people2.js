@@ -6,5 +6,6 @@ const PEOPLE = [
   { animal: 'lion', firstName: 'Pash', favoriteFood: 'burger', show: 'Bojack Horseman'},
   { animal: 'parrot', firstName: 'Peri', favoriteFood: 'couscous', show: 'The Walking Dead'}, 
   { animal: 'wolf', firstName: 'Wolfie', middleName: 'Leopold', favoriteFood: 'french fries', show: 'The Good Place'},
-  { animal: 'deer', firstName: 'Lily', middleName: 'Jane', show: 'Amazing Race'}
+  { animal: 'deer', firstName: 'Lily', middleName: 'Jane', show: 'Amazing Race'},
+  { animal: 'bunny', firstName: 'Buns', middleName: 'Bunner'}
 ];
