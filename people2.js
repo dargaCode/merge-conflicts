@@ -18,7 +18,7 @@ const PEOPLE = [
     firstName: "Niki",
     occupation: "developer",
     middleName: "Esmerelda",
-    favoriteFood: "olives",
+    favoriteFood: "carrots",
     show: "Our Flag Means Death",
   },
   {
@@ -31,7 +31,7 @@ const PEOPLE = [
     animal: "parrot",
     firstName: "Peri",
     favoriteFood: "couscous",
-    show: "The Walking Dead",
+    show: "Jeopardy",
   },
   {
     animal: "wolf",
