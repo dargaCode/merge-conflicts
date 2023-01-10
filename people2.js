@@ -7,5 +7,11 @@ const PEOPLE = [
   { animal: 'wolf', firstName: 'Wolfie', middleName: 'Leopold', favoriteFood: 'french fries', show: 'The Good Place'},
   { animal: 'deer', firstName: 'Lily', middleName: 'Jane', show: 'Amazing Race', favoriteFood: 'pizza'},
   { animal: 'bunny', firstName: 'Buns', middleName: 'Bunner', show: 'Survivor'}
+  {
+    animal: "horse",
+    firstName: "Royal",
+    middleName: "King",
+    show: "Slow Horses",
+  },
 ];
 
