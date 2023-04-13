@@ -2,7 +2,6 @@ const PEOPLE = [
   {
     animal: "dog",
     firstName: "Chris",
-    middleName: "Mercutio",
     favoriteFood: "bacon",
     show: "The Wire",
   },
@@ -17,7 +16,6 @@ const PEOPLE = [
     animal: "sloth",
     firstName: "Niki",
     occupation: "developer",
-    middleName: "Esmerelda",
     favoriteFood: "carrots",
     show: "Our Flag Means Death",
   },
@@ -36,20 +34,17 @@ const PEOPLE = [
   {
     animal: "wolf",
     firstName: "Wolfie",
-    middleName: "Leopold",
     favoriteFood: "french fries",
     show: "The Good Place",
   },
   {
     animal: "bunny",
     firstName: "Buns",
-    middleName: "Bunner",
     show: "Survivor",
   },
   {
     animal: "horse",
     firstName: "Royal",
-    middleName: "King",
     show: "Slow Horses",
   },
 ];
