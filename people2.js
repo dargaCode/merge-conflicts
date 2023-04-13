@@ -41,13 +41,6 @@ const PEOPLE = [
     show: "The Good Place",
   },
   {
-    animal: "deer",
-    firstName: "Lily",
-    middleName: "Jane",
-    show: "Amazing Race",
-    favoriteFood: "pizza",
-  },
-  {
     animal: "bunny",
     firstName: "Buns",
     middleName: "Bunner",
