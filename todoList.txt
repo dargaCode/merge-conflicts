@@ -1,4 +1,5 @@
 "Apply to jobs"
 "Cook some meals"
 "Go cycling"
+"Grocery Shopping"
 "Homework"
