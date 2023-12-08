@@ -1,1 +1,3 @@
-Homework
+"Cook some meals"
+"Go cycling"
+"Homework"
