@@ -1,0 +1,2 @@
+Merge all the conflicts
+Conflict all the merges
